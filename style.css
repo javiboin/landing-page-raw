@@ -8,10 +8,6 @@
     color: white;
 }
 
-body {
-    background-color: black; /* TODO: Cambiar a un fondo más atractivo */
-}
-
 header {
     position: fixed;
     right: 0;
